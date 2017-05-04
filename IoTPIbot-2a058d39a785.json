@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotpibot",
+  "private_key_id": "2a058d39a7853fb9b38e45e9a906594ba1878e72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvqU8fi3U8aZ5K\nn2BsTS7kTspPBbCJbVORXBWOWHLHK1hdsUb9zQ2MYQ+mibO6CRWQ/xox3yZXdrY8\nwCftmsuSDuTkGsAdIVJYZt8DcVJxkmitd12VrcXT0OxA7K74zMOITxeTxryyAwEu\nRtGSxSLm+zc4O17kbK0Nq9En43xsbVTo5JBYLQgq2hgb44rC4DTD4FZ31MhNdyea\nbPG7DY+x0RDtjswHOF+h9HrjLjWCVknTb9YkVtCE0xUb8LDRd9VmfB1LepThk5E6\nl6JnySJMuQslWj0Xvp63dYmT+1oxO8x1vQwLb/wrzkz8S5QxcGATauK4dTFz7B8O\nKm+qvTzzAgMBAAECggEAQUQo79GDB6U+eP9qdhLfX1ie9mloxEboi9Oo9rCKRNIo\nDPe3JsmvRP8zL29uZarGZo9CDlGZD1o+L6g9rZycEnKSPOZrhudAjzP5nG/Yb/Y0\nCm+VR+2+2QqBHUZTZIHADL9GRVPL/F/9alJJv7ybUTL5u1zjzv9J9RBnr+hn7Gi9\nFUkjQm3Vk8dmJnC0V31qIJxY+k3zhVEgNL6rKOItL5d8Db0wdCcnzpq9fNB9CUIa\nJhEQvWbOVxWklpAmLyGNjwvmCtFQMcXDxmjMFyg9pZV6THjAiSseyoa91aWpxJR5\ntGA7uwMvGw/2pIUAEvEU4YHCeOM9mQnAdA4OSBat0QKBgQDgRxTPYJJhH0NxaYoC\nkpLX6P3FDv6W7SfiGslUOlHTnry4hzwxc/6JkcgQKZd0w8c3tyfRg2zZNT+1DyYY\nx8DWfRPlQA/VBAZORTnU8GULojzF1L2depQwDnuq6v1+S+kKZHZtpJ/CJAWlFRQF\njH3mSoz/FoMZW5hy2keHStL+twKBgQDIgd6ii89NpNIdio7pGUJuz8HFS+pL1eJW\nUkEbLyK+Y9CfPy3OGPBTyMg5Rlzjlpifg2Iqs/gJHyFfNOxwY6CzQFuyVAzKpAXw\nQjaE/OLO1zKICHqtAj6jrA0Fc0YSHv83TapIvy3QtIHByC90p+u6X1kbGB5ka0NR\nuhLILmh3pQKBgFHWXieVy5QY/lkh87Qgm+ihIgiIAio8e3Mr5w8PANDBeYe0ASji\ndJzqTyBmrNd0oPsZoDP5SvyvS4Hb90DPkvQxS9M5Xw2RnGNvKz0iQxzNpHNjv5T5\nJ52pi0LA4KL3PCAIrJYxngIPdufYGygzLbWcunpSUqAsJiKyt6sMiJVdAoGBAIL/\nHjZyQ0kF8uSr/rxZ7WY6Q+2jsHpFTa954+FfxUJAMi+odkOdVX5XwkBxMQTcAfDN\nRJiDpfxHo2TxTbwLyxTxajcy5HyL9vlGORpfocrjG7d2WrenrMcABC3YZyI1sCYw\njp0ikks1c0ToheCgSMklvDCQbGLNFVlSySyR7VylAoGAPqZKV/LFs+V3kJRaWybC\nt5EKqs9tKg0ZZViPanpbYCugKK8K3xvXR6AZoEWTbl/tQLJ+02/9LaKLA2130PMh\nCdGuhZkGvoDE+C2gh6n1PWfcGlhODZfXLJQpPLNyc7KW3P+Ib6XZzr96AOAMmp1q\nv3Y9vUFBIntIWLL629v2xJY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iotpibot@iotpibot.iam.gserviceaccount.com",
+  "client_id": "116164965970931200433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iotpibot%40iotpibot.iam.gserviceaccount.com"
+}
